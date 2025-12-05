@@ -1,5 +1,5 @@
 {
-    "version": "1.12.16",
+    "version": "1.12.39",
     "description": "The new purpose-built IDE to harness magic",
     "homepage": "https://windsurf.com/",
     "license": {
@@ -9,12 +9,12 @@
     "innosetup": true,
     "architecture": {
         "64bit": {
-            "url": "https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/6a266ac3a91f80e64147aaf1e7640a92571474cf/WindsurfUserSetup-x64-1.12.16.exe",
-            "hash": "eb3ad88622d593d237a3f97e56f8ceb77e36295d399307f391d870c2223bde1c"
+            "url": "https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/10ebfa84f4e8b018ef2459063f0293b8e9ac01da/WindsurfUserSetup-x64-1.12.39.exe",
+            "hash": "9adfa7ec650a5fd4eacc1742fad09a47dfbf5d8cdb33872181bca321bd9328c0"
         },
         "arm64": {
-            "url": "https://windsurf-stable.codeiumdata.com/win32-arm64-user/stable/6a266ac3a91f80e64147aaf1e7640a92571474cf/WindsurfUserSetup-arm64-1.12.16.exe",
-            "hash": "e83557a85fb77fcb0255a443f1ddff1bfd59bf3471829a8f30a59c7f2075b751"
+            "url": "https://windsurf-stable.codeiumdata.com/win32-arm64-user/stable/10ebfa84f4e8b018ef2459063f0293b8e9ac01da/WindsurfUserSetup-arm64-1.12.39.exe",
+            "hash": "404572bc6b98438037c00a8b1d41527893ca2855867acb645f3e00d385150f15"
         }
     },
     "extract_dir": "{code_GetDestDir}",

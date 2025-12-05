@@ -1,5 +1,5 @@
 {
-    "version": "1.2.74.477.g3be53afe",
+    "version": "1.2.78.418.gaeeb5ebd",
     "description": "A digital music service that gives you access to millions of songs.",
     "homepage": "https://www.spotify.com/",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": "https://download.scdn.co/SpotifyFullSetupX64.exe",
-            "hash": "ca3ce1b29e601123e1f4501d8a76310a00c8578d3a94935d1c618b2bf6afdb42"
+            "hash": "e623558749cc98cf9846e020fe8d272af5fae7dc0fad42d8c280a9df08f1b80a"
         },
         "arm64": {
             "url": "https://download.scdn.co/SpotifyFullSetupARM64.exe",
-            "hash": "ba4f40626f6622e32e9b33db15d0e8ec84a18f450e4b7e7fc167391f51bb292c"
+            "hash": "cf2d9f63e6c17ed2b44622cf0b1bbaefb98b5f895f899b7718d3103ac4fb58ad"
         }
     },
     "installer": {

@@ -1,5 +1,5 @@
 {
-    "version": "1.12.1",
+    "version": "1.12.4",
     "description": "A minimal Markdown editor and reader",
     "homepage": "https://typora.io",
     "license": {
@@ -11,16 +11,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.typora.io/windows/typora-setup-x64-1.12.1.exe",
-            "hash": "30ae6fa152f5090b10353f6fed3b8b7531653c4b1fd8a0976af9ac376c620d9a"
+            "url": "https://download.typora.io/windows/typora-setup-x64-1.12.4.exe",
+            "hash": "9d15be00ae51082c80cdac8b9060802d76a417c42dbefee0e42dc9fd3a7a7331"
         },
         "32bit": {
-            "url": "https://download.typora.io/windows/typora-setup-ia32-1.12.1.exe",
-            "hash": "83955ea661051dfdf8239f5bff4a6c9ae199b22a10768f0d76a2a73da3afc0bc"
+            "url": "https://download.typora.io/windows/typora-setup-ia32-1.12.4.exe",
+            "hash": "c3aef17e12b3ed990b87546795d6f332bb8012ff5880d0d3415e92b857821517"
         },
         "arm64": {
-            "url": "https://download.typora.io/windows/typora-setup-arm64-1.12.1.exe",
-            "hash": "47e656093bd0b3e5c8b398ef23e5eba82b948df9cdcd0778f48e4e342160141d"
+            "url": "https://download.typora.io/windows/typora-setup-arm64-1.12.4.exe",
+            "hash": "a02c78dcd5e1d77d4d4802b5d46cc24f319ecb789809bd7d473969d5d16e0452"
         }
     },
     "innosetup": true,

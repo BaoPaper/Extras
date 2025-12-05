@@ -1,20 +1,20 @@
 {
-    "version": "6.12.5",
+    "version": "6.13.3",
     "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo, Dynadot",
     "homepage": "https://github.com/jeessy2/ddns-go",
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jeessy2/ddns-go/releases/download/v6.12.5/ddns-go_6.12.5_windows_i386.zip",
-            "hash": "3627394f25050b57bab4760636d9929c79f02a041ff730613d30644b61e89899"
+            "url": "https://github.com/jeessy2/ddns-go/releases/download/v6.13.3/ddns-go_6.13.3_windows_i386.zip",
+            "hash": "6f942f12174050473ffb9c2b32c80e733a3731331a32add1980617cadeaae164"
         },
         "64bit": {
-            "url": "https://github.com/jeessy2/ddns-go/releases/download/v6.12.5/ddns-go_6.12.5_windows_x86_64.zip",
-            "hash": "6eaf228e22735be9aae86fb48de1deb8996b21b262820a2af48d55e1ddf2f85b"
+            "url": "https://github.com/jeessy2/ddns-go/releases/download/v6.13.3/ddns-go_6.13.3_windows_x86_64.zip",
+            "hash": "42d0bdd75b97b714817689cc9965c4fe0ee6baa1dc359e962ca99ae057b37984"
         },
         "arm64": {
-            "url": "https://github.com/jeessy2/ddns-go/releases/download/v6.12.5/ddns-go_6.12.5_windows_arm64.zip",
-            "hash": "3e2aa5b0a090fb6221251629d6fc63839c3760ac2bb47ac464cd71d23ed125c1"
+            "url": "https://github.com/jeessy2/ddns-go/releases/download/v6.13.3/ddns-go_6.13.3_windows_arm64.zip",
+            "hash": "ed508b5fde5c053c5e90630cd7635909fd81cc6b37d34cf52bd4f6604c99b2db"
         }
     },
     "bin": "ddns-go.exe",

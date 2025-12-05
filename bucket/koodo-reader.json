@@ -1,20 +1,20 @@
 {
-    "version": "2.1.8",
+    "version": "2.2.3",
     "homepage": "https://www.koodoreader.com",
     "description": "All-in-one ebook reader.",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://dl.koodoreader.com/v2.1.8/Koodo-Reader-2.1.8-x64.exe#/dl.7z",
-            "hash": "sha512:2e87c9433e22bbcf39bd5d797d2cd378866b49e4268c35e21dff176de2379a0ad55c01b96da4405aea7d5a18cef15b737e9533b0c34f9347fdfa9e82391a7ab3"
+            "url": "https://dl.koodoreader.com/v2.2.3/Koodo-Reader-2.2.3-x64.exe#/dl.7z",
+            "hash": "sha512:561e6b6cd50cebbded9d14626916e0e1d2475dc2d0d9dac50ace1add95be7637cc992d0d676ea7d197e4d37d1eb9ba24c26dae02ba4cd13cf14011cecd69f177"
         },
         "32bit": {
-            "url": "https://dl.koodoreader.com/v2.1.8/Koodo-Reader-2.1.8-ia32.exe#/dl.7z",
-            "hash": "sha512:3a880679221f32eca6790c96977457b8df9c804816505eeac723c32292a815fcd53b0acba0c6e9b7d292265fc039c24e20e631f1f4d757c37fa7047e834e4218"
+            "url": "https://dl.koodoreader.com/v2.2.3/Koodo-Reader-2.2.3-ia32.exe#/dl.7z",
+            "hash": "sha512:97ad14892499ac29f35a29f853cd946c4ed88a6676d7f9abd4ed50cec0d1082f19e4b769b249097a0a4e2958a6b652696a1abd1e0b30ac7d7e9e105c0c5609aa"
         },
         "arm64": {
-            "url": "https://dl.koodoreader.com/v2.1.8/Koodo-Reader-2.1.8-arm64.exe#/dl.7z",
-            "hash": "sha512:4b1cd14abab8992841826b864cb219dbc2f37a474df07cceaa42c6448fccb04c3d04fb8e756b92b93b6cf65e4fae70025af4ab0b880b554d5749a90a2dba4d2e"
+            "url": "https://dl.koodoreader.com/v2.2.3/Koodo-Reader-2.2.3-arm64.exe#/dl.7z",
+            "hash": "sha512:9f882840f33ba3f833e7ff09a33a13fcdc19bae3c5858088ae51dd90a410ca438767a163ed725b80ac79eb65dac4f0aa31a9e0bad00332fade2d299e3c72e9ac"
         }
     },
     "installer": {
